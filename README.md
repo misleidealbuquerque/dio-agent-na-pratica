@@ -78,20 +78,24 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+<img width="620" height="399" alt="image" src="https://github.com/user-attachments/assets/dfcbded2-25a4-4b16-8175-acf6035e4339" />
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="410" height="407" alt="image" src="https://github.com/user-attachments/assets/27d3946d-2d90-4f29-b814-35d6ec6d475c" />
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="450" height="388" alt="image" src="https://github.com/user-attachments/assets/f2f5d66a-fe67-4b34-8120-7620fdd8ffab" />
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="438" height="379" alt="image" src="https://github.com/user-attachments/assets/3ce831ce-ab42-4d0d-bae2-b7e7d3707bd7" />
+
+<img width="423" height="367" alt="image" src="https://github.com/user-attachments/assets/418ddee3-eeb2-477c-a0d2-c989d12df208" />
+
+<img width="418" height="241" alt="image" src="https://github.com/user-attachments/assets/5295f8c9-9ddd-4742-807b-83ed95b07ec6" />
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Foi muito legal ver como o DIO Agent funciona. Pude compreender melhor o conceito de skill, ser conduzida por raciocínio a resolver um problema, e pude ter segurança e clareza no plano de estudos que foi elaborado para mim.
